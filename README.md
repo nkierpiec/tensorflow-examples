@@ -1,2 +1,3 @@
 # tensorflow-examples
-Experimental TensorFlow tutorials
+
+Examples and tutorials using TensorFlow and python
